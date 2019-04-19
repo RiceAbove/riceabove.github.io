@@ -227,6 +227,10 @@ input, select, textarea {
 			overflow-x: auto;
 		}
 
+	.BSOE {
+		padding-top: 2.14rem;
+	}
+
 	.align-left {
 		text-align: left;
 	}
