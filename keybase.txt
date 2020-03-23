@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/riceabove
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gicocarlo.me
+  * I am riceabove (https://keybase.io/riceabove) on keybase.
+  * I have a public key ASC9F1eVCtROF45JlZuzW2905YvjRuV_XSVRyKJL-yHqOAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101dd33016f7989107f31aca053d15e6f3b4946706f2324113136d27fcdffe0ef7a0a",
+      "host": "keybase.io",
+      "kid": "0120bd1757950ad44e178e49959bb35b6f74e58be346e57f5d2551c8a24bfb21ea380a",
+      "uid": "a3a7bd1ee9d32692d2dd23a00e8ae319",
+      "username": "riceabove"
+    },
+    "merkle_root": {
+      "ctime": 1584991425,
+      "hash": "ea1b31523d229f1fdbf9daf9cd215916a1f0265ddbcc68a83d0499ab87b5897f6077a035e70d1b6c8e6f7529e227286a5bc254a0631d54a869efe0fb41954334",
+      "hash_meta": "de80cb61cb3f66e1cff1eb44af62494ab0e7aa3db1014ab9d85ba043c0a2199f",
+      "seqno": 15560204
+    },
+    "service": {
+      "entropy": "9Z/VIKLM55u7pVJRE+yhkM63",
+      "hostname": "gicocarlo.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1584991450,
+  "expire_in": 504576000,
+  "prev": "fdea404292b4884d601de37a32c2c05d1c9269d0c8da8ddc92c9b95585c3e9c7",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvRdXlQrUTheOSZWbs1tvdOWL40blf10lUciiS/sh6jgKp3BheWxvYWTESpcCC8Qg/epAQpK0iE1gHeN6MsLAXRySadDI2o3cksm5VYXD6cfEINyeSNM9MLm00FUOKmEk5qSy1CvMu81SfpEVPOZs6atsAgHCo3NpZ8RA1Det+CfoCsx1AzrXVvEPIb/qSZHTLov2kEgfBCBm+YcIOQpEOQ63g1aGkOTeSm4xA6FUqHNlsF3h+UwtFhj8CqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICveIXwJQnc6jYJo5XoDIlhIgoEJ2cs0a2WmadcTq9+To3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/riceabove
+
+==================================================================
